@@ -6,8 +6,8 @@ description: Welcome to Brina Lee's Protfolio
 
 ## Welcome !
 
-A design system is a product, and similar best practices to product docs apply when documenting a design system. Offering succinct ways to get started is a great way to introduce the concepts of your design system, while empowering folks to use it for their needs.
+UI/UX 디자이너, Brina Lee 의 포트폴리오
 
-{% hint style="info" %}
-Use this template to introduce the concept of your design system. Outlining basic principles and ways of working to get every team on the same page.
-{% endhint %}
+안녕하세요, Brina Lee의 포트폴리오를 방문해주신 모든 분들께 감사드립니다.
+
+principles and ways of working to get every team on the same page.
