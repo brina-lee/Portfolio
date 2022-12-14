@@ -4,16 +4,24 @@ description: Porfile
 
 # Brina Lee Who
 
-###
+## Introduction
 
-### 🤝Trust
+성신여자대학교 경영학사
 
-Trust the process Donec id elit non mi porta gravida at eget metus. Nullam quis risus eget urna mollis ornare vel eu leo.
+성신여자대학교 서비스디자인공학사
 
-### 🛳 Ship&#x20;
 
-With thoughtful and consistent interfaces, praesent commodo cursus magna, vel scelerisque nisl consectetur et. Maecenas sed diam eget risus varius blandit sit amet non magna.
 
-### 🙇‍♀️ Align
+## Contact
 
-Our single source of truth is integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam id dolor id nibh ultricies vehicula ut id elit.
+### 🤝LinkedIn
+
+
+
+### 🛳 Github
+
+****[**https://github.com/brina-lee/Portfolio.git**](https://github.com/brina-lee/Portfolio.git)
+
+### 🙇‍♀️ Gmail
+
+brina.lny@gmail.com
