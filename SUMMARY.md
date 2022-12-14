@@ -10,8 +10,6 @@
 
 * [KakaoEnterprise](career/kakaoenterprise.md)
 
-## Project
+## PROJECT
 
-* [Icons](project/icons.md)
-* [Buttons](project/buttons.md)
-* [Inputs](project/inputs.md)
+* [Plantary](project/plantary.md)

@@ -1,5 +1,6 @@
 ---
 description: Welcome to Brina Lee's Protfolio
+layout: landing
 ---
 
 # 😈 Brina Lee
