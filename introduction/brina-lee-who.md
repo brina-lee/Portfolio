@@ -1,10 +1,14 @@
 ---
-description: Porfile
+description: 쓸모를 만드는 UI/UX 디자이너
 ---
 
 # Brina Lee Who
 
 ## Introduction
+
+
+
+## Education
 
 성신여자대학교 경영학사
 
@@ -14,14 +18,14 @@ description: Porfile
 
 ## Contact
 
-### 🤝LinkedIn
+### LinkedIn
 
 
 
 ### 🛳 Github
 
-****[**https://github.com/brina-lee/Portfolio.git**](https://github.com/brina-lee/Portfolio.git)
+{% embed url="https://github.com/brina-lee/Portfolio.git" %}
 
-### 🙇‍♀️ Gmail
+### 🙇‍♀️ Email
 
 brina.lny@gmail.com

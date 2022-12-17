@@ -1,3 +1,7 @@
+---
+description: Technical Writer as Intern
+---
+
 # KakaoEnterprise
 
 [https://console.kakaoi.io/docs/](https://console.kakaoi.io/docs/)
